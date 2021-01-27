@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = '&kf^6pd6e*w=1o+&$)%18g(0owk05l3kf(iy2*qocbpx@(b+b='
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['btr-project.herokuapp.com', '127.0.0.1']
 
