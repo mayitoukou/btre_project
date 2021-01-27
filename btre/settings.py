@@ -92,7 +92,7 @@ DATABASES = {
         'NAME': 'btredb',
         'USER': 'genese',
         'PASSWORD': 'genese1995',
-        'HOST': 'localhost'
+        'HOST': 'btr-project.herokuapp.com'
     }
 }
 
