@@ -25,7 +25,7 @@ SECRET_KEY = '&kf^6pd6e*w=1o+&$)%18g(0owk05l3kf(iy2*qocbpx@(b+b='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['btr-project.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['btr-project.herokuapp.com', '127.0.0.1:8000']
 
 
 # Application definition
