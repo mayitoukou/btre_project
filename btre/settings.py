@@ -25,7 +25,7 @@ SECRET_KEY = '&kf^6pd6e*w=1o+&$)%18g(0owk05l3kf(iy2*qocbpx@(b+b='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['btr-project.herokuapp.com']
+ALLOWED_HOSTS = ['btr-project.herokuapp.com', 'localhost']
 
 
 # Application definition
@@ -92,7 +92,7 @@ DATABASES = {
         'NAME': 'btredb',
         'USER': 'genese',
         'PASSWORD': 'genese1995',
-        'HOST': 'btr-project.herokuapp.com'
+        'HOST': 'localhost'
     }
 }
 
